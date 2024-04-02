@@ -1,0 +1,3 @@
+-   Create 3 elements sharing the same class name
+-   Give those 3 elements any styling
+-   Select the 3 elements using getElementsByClassname and log them on the console
